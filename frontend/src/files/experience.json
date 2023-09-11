@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "TopShelfEnterprises LLC",
+      "description": "Developed and maintained base infastruture of an in-house based application to improve business needs.",
+      "title": "Fullstack Developer",
+      "dates": "Jan - Aug 2022 and Jan-May 2023",
+      "skills": [
+        "C#",
+        "React",
+        "Javascript",
+        "CQRS"
+      ]
+    }
+  ]
+}
